@@ -1,2 +1,1 @@
-# datasciencecoursera
 My first repository
